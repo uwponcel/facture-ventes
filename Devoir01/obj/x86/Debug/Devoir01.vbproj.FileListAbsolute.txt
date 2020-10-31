@@ -1,0 +1,71 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\bin\Debug\Devoir01.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\bin\Debug\Devoir01.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\bin\Debug\Devoir01.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\Devoir01.Form1.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\Devoir01.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01\Devoir01\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01\Devoir01\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01\Devoir01\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\Devoir01\bin\Debug\Devoir01.exe
+C:\Temp\Devoir01\bin\Debug\Devoir01.pdb
+C:\Temp\Devoir01\bin\Debug\Devoir01.xml
+C:\Temp\Devoir01\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Devoir01\obj\x86\Debug\Devoir01.Form1.resources
+C:\Temp\Devoir01\obj\x86\Debug\Devoir01.Resources.resources
+C:\Temp\Devoir01\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\Devoir01\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\VB\NotesDeCours\Devoir01\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_Demarrage_A2013\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_Demarrage_A2013\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_Demarrage_A2013\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\bin\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\bin\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\bin\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\obj\x86\Debug\Devoir01.Form1.resources
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\obj\x86\Debug\Devoir01.Resources.resources
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_Demarrage\Devoir01\obj\x86\Debug\Devoir01.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\bin\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\bin\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\bin\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.Form1.resources
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.Resources.resources
+C:\Temp\VB\NotesDeCours\Devoir01_A2015b_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\bin\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\bin\Debug\Devoir01.pdb
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\bin\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.vbprojResolveAssemblyReference.cache
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.Form1.resources
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.Resources.resources
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.vbproj.GenerateResource.Cache
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.vbproj.CoreCompileInputs.cache
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Temp\VB\NotesDeCours\Devoir01_A2016_DemarragePlus\Devoir01\obj\x86\Debug\Devoir01.pdb
+C:\Users\Will\Desktop\Devoir01\Devoir01\bin\Debug\Devoir01.exe
+C:\Users\Will\Desktop\Devoir01\Devoir01\bin\Debug\Devoir01.pdb
+C:\Users\Will\Desktop\Devoir01\Devoir01\bin\Debug\Devoir01.xml
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.vbprojAssemblyReference.cache
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.Form1.resources
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.Resources.resources
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.vbproj.GenerateResource.cache
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.vbproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.exe
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.xml
+C:\Users\Will\Desktop\Devoir01\Devoir01\obj\x86\Debug\Devoir01.pdb
